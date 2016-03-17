@@ -1,0 +1,29 @@
+#hoje{
+    width: 405px;
+    border: 1px solid #ff56fb;
+    float: right;
+    text-align: center;
+    background-color: #f8cef7;
+}
+#hoje > img{
+    width: 112px;
+}
+#verdade>img{
+  width: 310px;
+  float: left;
+}
+body{
+  font-family: arial;
+  font-size: 14px;
+}
+h2{
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  font-size: 24px;
+}
+h3{
+  font-family: Times;
+  font-size: 18px;
+
+}
+
