@@ -37,7 +37,7 @@ h1{
 #musica{
   clear: left;
 }
-#musica>p{
+#musica>p,#musica>h2{
   padding-left: 12px;
 }
 #musica>div>p{
@@ -69,6 +69,10 @@ h2{
 h3{
   font-family: Times;
   font-size: 18px;
+}
+
+audio{
+  display: none;
 }
 
 .referencia{
